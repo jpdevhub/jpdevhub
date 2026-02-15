@@ -212,6 +212,8 @@ print(researcher.current_work())
 <summary><b>🌾 Agronavis - AI-Powered Smart Farm Assistant</b></summary>
 <br>
 
+**🏆 Featured at IIT Delhi (Top 25)**
+
 **Tech Stack:** React, Supabase, Plant.id API, Mapbox, AI/ML
 
 **�� Precision Agriculture Solution with Real-time Monitoring**
